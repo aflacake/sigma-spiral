@@ -4,6 +4,7 @@ import matplotlib
 matplotlib.use("Agg")
 from sigma_spiral import plot_sigma_spiral
 
+
 def test_plot_sigma_spiral_runs():
     """Uji apakah fungsi plot bisa dijalankan tanpa error."""
     try:
