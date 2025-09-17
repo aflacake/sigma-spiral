@@ -1,3 +1,5 @@
+# src/sigma_spiral/__init__.py
+
 """
 Sigma Spiral (Σs)
 =================
