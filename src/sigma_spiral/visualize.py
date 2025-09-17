@@ -1,3 +1,5 @@
+# src/sigma_spiral/visualize.py
+
 """
 visualize.py
 ------------
