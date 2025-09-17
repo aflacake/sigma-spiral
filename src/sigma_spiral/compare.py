@@ -1,3 +1,5 @@
+# src/sigma_spiral/compare.py
+
 """
 compare.py
 ----------
