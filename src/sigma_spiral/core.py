@@ -1,3 +1,5 @@
+# src/sigma_spiral/core.py
+
 """
 core.py
 --------
